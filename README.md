@@ -74,7 +74,7 @@ This project demonstrates how web scraping and data analysis can be used to extr
 
 ## 📂 Project Files
 - Jupyter Notebook (.ipynb)  
-- Dataset (optional)  
+- Dataset
 
 ---
 
