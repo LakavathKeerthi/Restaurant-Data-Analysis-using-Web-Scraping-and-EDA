@@ -79,4 +79,4 @@ This project demonstrates how web scraping and data analysis can be used to extr
 ---
 
 ## 🔗 Author
-Keerthi
+Lakavath Keerthi
